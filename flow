@@ -1,0 +1,11 @@
+ Create Mapping Tasks in Informatica Cloud for data flow from source to Target.
+• Fetch data from sources like flat files, Parquet files placed over AWS S3
+• Get data from source like AWS Athena, AWS Aurora and AWS Redshift.
+• Source data from HIVE generated files and repository directories hardened by hardening team.
+• Load Data into different Cluster of Targets of Redshift using IICS.
+• Transform data between the flow using different Mappings.
+• Process different files post ingested by Processing team using NIFI and Python Scripts.
+• Implemented end-to-end Apache NIFI flow to process files. Starting from acquiring files, applying various validations, and then storing to S3 buckets.
+• Implementation of NIFI registry for version controlling the flows.
+• Create & Manage Task Flows for proper flow of data for Integration.
+• Manage things related to Informatica Cloud using IICS secure agent running over EC2 instance of AWS
